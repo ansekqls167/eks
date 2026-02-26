@@ -14,3 +14,4 @@ spec:
   commonName: argo.aws-eks.cloud
   dnsNames:
   - argo.aws-eks.cloud
+  
