@@ -33,7 +33,7 @@ spec:
   # ClusterIssuer의 이름을 참조
     name: my-issuer
     kind: ClusterIssuer
-  commonName: service-aws-eks-cloud-tls
+  commonName: service.aws-eks.cloud
   dnsNames:
   # 추가적인 서브도메인을 추가하고 싶은경우에 여기에 나열
   - service.aws-eks.cloud
